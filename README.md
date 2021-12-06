@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayminMunjani
 - 👀 I’m interested in Website development
-- 🌱 I’m currently learning Node js
+- 🌱 I’m learned a Node js
 - 💞️ I’m looking to collaborate on with intresting projects
 - 📫 How to reach me munjanijaymin@gmail.com
 
